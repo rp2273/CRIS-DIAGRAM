@@ -1,0 +1,67 @@
+{
+  "PRS": {
+    "projectName": "PRS",
+    "dataReceived": {
+      "dataReceived 1": "Chart & Berth Infromation"
+    },
+    "dataConsumed": {
+      "dataConsumed 1": "Leftover / Released Berth"
+    }
+  },
+  "Parcel Management System (PMS)": {
+    "projectName": "Parcel Management System (PMS)",
+    "dataReceived": {
+      "dataReceived 1": "Luggage Fare"
+    },
+    "dataConsumed": {
+      "dataConsumed 1": ""
+    }
+  },
+  "PRIMES": {
+    "projectName": "PRIMES",
+    "dataReceived": {
+      "dataReceived 1": ""
+    },
+    "dataConsumed": {
+      "dataConsumed 1": "Passenger Details"
+    }
+  },
+  "ICMS": {
+    "projectName": "ICMS",
+    "dataReceived": {
+      "dataReceived 1": "Coach Consist",
+      "dataReceived 2": "Train Details"
+    },
+    "dataConsumed": {
+      "dataConsumed 1": "",
+      "dataConsumed 2": ""
+    }
+  },
+  "SATSANG": {
+    "projectName": "SATSANG",
+    "dataReceived": {
+      "dataReceived 1": "Train Time Table Detail"
+    },
+    "dataConsumed": {
+      "dataConsumed 1": ""
+    }
+  },
+  "Web Enabled Coaching Refund System (WECRS)": {
+    "projectName": "Web Enabled Coaching Refund System (WECRS)",
+    "dataReceived": {
+      "dataReceived 1": ""
+    },
+    "dataConsumed": {
+      "dataConsumed 1": "Passenger Details"
+    }
+  },
+  "TTE Lobby": {
+    "projectName": "TTE Lobby",
+    "dataReceived": {
+      "dataReceived 1": "Train TTE Duty Detail"
+    },
+    "dataConsumed": {
+      "dataConsumed 1": "EFT Details"
+    }
+  }
+}
